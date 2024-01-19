@@ -99,7 +99,7 @@
     nextArrow: '<button type="button" class="slick-next"> <span class="flaticon-arrow"><span></button>',
     autoplay:true,
     initialSlide: 3,
-    centerMode: true,
+    centerMode: false,
     loop:true,
     responsive: [
       {
