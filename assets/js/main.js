@@ -93,7 +93,7 @@
     infinite: true,
     speed: 600,
     arrows: true,
-    slidesToShow: 3,
+    slidesToShow: 2,
     slidesToScroll: 1,
     prevArrow: '<button type="button" class="slick-prev"> <span class="flaticon-arrow"></span></button>',
     nextArrow: '<button type="button" class="slick-next"> <span class="flaticon-arrow"><span></button>',
