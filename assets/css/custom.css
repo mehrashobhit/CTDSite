@@ -5,9 +5,9 @@ div.pricing-card-area .row{margin-left:-100px;margin-right:-100px;}
 
 
 .frame {
-    height: 25px;      /* Equals maximum image height */
-    width: 160px;
-    border: 1px solid red;
+    height: 130px;      /* Equals maximum image height */
+    width: 150px;
+    
     white-space: nowrap; /* This is required unless you put the helper span closely near the img */
 
     text-align: center;
@@ -21,8 +21,8 @@ div.pricing-card-area .row{margin-left:-100px;margin-right:-100px;}
 }
 
 img.img-pop-up {
-    background: #3A6F9A;
+   
     vertical-align: middle;
-    max-height: 250px;
-    max-width: 160px;
+    max-height: 130px;
+    max-width: 150px;
 }
